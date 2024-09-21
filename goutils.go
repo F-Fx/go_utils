@@ -1,9 +1,9 @@
-// This is my first test package
+// Package goutils this is my first test package
 package goutils
 
 import "fmt"
 
-// This is goutils test function
+// GoutilsHello is goutils test function
 func GoutilsHello() {
 	fmt.Println("This is utils")
 }
